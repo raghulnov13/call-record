@@ -1,0 +1,34 @@
+[
+  {
+    "phone": "7708043136",
+    "reason": "FRCS ERROR",
+    "solution": "SATION ID WRONG",
+    "status": "Complete",
+    "person": "Raghul",
+    "date": "2025-07-01T23:48:24.983Z"
+  },
+  {
+    "phone": "FG",
+    "reason": "NEED TO CHANGE MASTERPACK UNIT COUNT",
+    "solution": "90DB-->MASTER_USER-->WORK_ORDER",
+    "status": "Complete",
+    "person": "Raghul",
+    "date": "2025-07-01T19:03:59.594Z"
+  },
+  {
+    "phone": "7708043136",
+    "reason": "work order",
+    "solution": "grouping",
+    "status": "Complete",
+    "person": "Raghul",
+    "date": "2025-07-01T18:56:03.879Z"
+  },
+  {
+    "phone": "BLT-QA",
+    "reason": "LINE ISSUE",
+    "solution": "IP CONFIGURE",
+    "status": "Complete",
+    "person": "Raghul",
+    "date": "2025-07-01T18:54:35.667Z"
+  }
+]
