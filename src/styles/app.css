@@ -67,6 +67,36 @@ td {
   text-align: left;
 }
 
+<<<<<<< HEAD
+=======
+.home-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.animation-box {
+  max-width: 300px;
+  margin: auto;
+}
+
+.cta-button {
+  margin-top: 1rem;
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .cta-button {
+    width: 90%;
+  }
+}
+
+>>>>>>> 498269e (Initial commit)
 @media (max-width: 600px) {
   .navbar {
     flex-direction: column;

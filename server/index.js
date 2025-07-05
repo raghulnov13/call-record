@@ -43,6 +43,12 @@ app.patch('/api/calls/:index', (req, res) => {
   res.json({ success: true });
 });
 
+<<<<<<< HEAD
+=======
+app.use("/",(req,res)=>{
+  res.send("<h1>hi</h1>")
+})
+>>>>>>> 498269e (Initial commit)
 
 app.listen(PORT, () => {
   console.log(`🚀 Backend server running at http://localhost:${PORT}`);

@@ -1,5 +1,56 @@
 [
   {
+<<<<<<< HEAD
+=======
+    "phone": "ersrsz",
+    "reason": "dxfxdfrdx",
+    "solution": "dxfdf",
+    "status": "Pending",
+    "person": "Raghul",
+    "date": "2025-07-04T18:18:00.026Z"
+  },
+  {
+    "phone": "LX QA",
+    "reason": "DATA REQ",
+    "solution": "DATA SHARED",
+    "status": "Complete",
+    "person": "Raghul",
+    "date": "2025-07-02T18:21:57.594Z"
+  },
+  {
+    "phone": "SMT PROD",
+    "reason": "LINE CHANGE OVER",
+    "solution": "IP INTERCHANGED",
+    "status": "Complete",
+    "person": "Raghul",
+    "date": "2025-07-02T18:21:31.895Z"
+  },
+  {
+    "phone": "SMT SFG",
+    "reason": "LINE DISABLE",
+    "solution": "62DB",
+    "status": "Complete",
+    "person": "Raghul",
+    "date": "2025-07-02T18:20:42.698Z"
+  },
+  {
+    "phone": "7708043136",
+    "reason": "LINE ISSUE",
+    "solution": "IP CONFIGURE",
+    "status": "Complete",
+    "person": "Raghul",
+    "date": "2025-07-02T18:13:55.269Z"
+  },
+  {
+    "phone": "LX QA",
+    "reason": "DELETE PSN HISTORY",
+    "solution": "DELETED",
+    "status": "Complete",
+    "person": "Hari",
+    "date": "2025-07-02T16:48:44.419Z"
+  },
+  {
+>>>>>>> 498269e (Initial commit)
     "phone": "7708043136",
     "reason": "FRCS ERROR",
     "solution": "SATION ID WRONG",
