@@ -53,15 +53,9 @@ function CallLogPage() {
               <td>{log.status}</td>
               <td>{log.person}</td>
               <td>{new Date(log.date).toLocaleString()}</td>
-<<<<<<< HEAD
-              {/* <td>
-                <button onClick={() => navigate(`/edit/${i}`)}>✏️ Edit</button>
-              </td> */}
-=======
               <td>
                 <button onClick={() => navigate(`/edit/${i}`)}>✏️ Edit</button>
               </td>
->>>>>>> 498269e (Initial commit)
             </tr>
           ))}
         </tbody>

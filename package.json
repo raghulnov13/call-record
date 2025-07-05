@@ -1,14 +1,8 @@
 {
   "name": "call-log-crm",
-<<<<<<< HEAD
-  "home": "https://github.com/raghulnov13/call-record.git",
-  "private": true,
-  "version": "0.0.0",
-=======
   "homepage": "https://raghulnov13.github.io/call-record",
   "private": true,
   "version": "1.0.0",
->>>>>>> 498269e (Initial commit)
   "type": "module",
   "scripts": {
     "dev": "concurrently \"vite\" \"nodemon server/index.js\"",
@@ -25,10 +19,7 @@
     "express": "^5.1.0",
     "file-saver": "^2.0.5",
     "gh-pages": "^6.3.0",
-<<<<<<< HEAD
-=======
     "lottie-react": "^2.4.1",
->>>>>>> 498269e (Initial commit)
     "papaparse": "^5.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
